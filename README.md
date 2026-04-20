@@ -15,3 +15,4 @@
 ## Технологиялар:
 - C#
 - WPF
+- Download and run the application (Windows .exe)
